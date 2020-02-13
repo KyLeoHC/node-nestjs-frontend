@@ -24,7 +24,7 @@ or
 $ npm install
 ```
 
-## run
+## Run
 
 ```bash
 $ npm run dev
